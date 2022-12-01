@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/nexlay" target="blank"><img src="https://img.shields.io/twitter/follow/nexlay?logo=twitter&style=for-the-badge" alt="nexlay" /></a> </p>
 
-- 🔭 I’m currently working on [Wallnex](https://github.com/nexlay/wallnex.git)
+- 🔭 <h4 aling="center">I’m currently working on</h4> [Wallnex](https://github.com/nexlay/wallnex.git)
 
 - 🌱 I’m currently learning **CS50 Computer Science**
 
