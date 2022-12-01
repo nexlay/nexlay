@@ -7,17 +7,17 @@
 
 - <h3 aling="center">🔭 I’m currently working on</h3> [Wallnex](https://github.com/nexlay/wallnex.git)
 
-- 🌱 I’m currently learning **CS50 Computer Science**
+- <h3 aling="center">🌱 I’m currently learning</h3> **CS50 Computer Science**
 
-- 👨‍💻 All of my projects are available at [https://github.com/nexlay](https://github.com/nexlay)
+- <h3 aling="center">👨‍💻 All of my projects are available at</h3> [https://github.com/nexlay](https://github.com/nexlay)
 
-- 📝 I regularly making posts on [https://twitter.com/Nexlay](https://twitter.com/Nexlay)
+- <h3 aling="center">📝 I regularly making posts on</h3> [https://twitter.com/Nexlay](https://twitter.com/Nexlay)
 
-- 💬 Ask me about **Flutter, Dart, Rive**
+- <h3 aling="center">💬 Ask me about</h3> **Flutter, Dart, Rive**
 
-- 📫 How to reach me **pryhodskyimykola@gmail.com**
+- <h3 aling="center">📫 How to reach me</h3> **pryhodskyimykola@gmail.com**
 
-- ⚡ Fun fact **I can lower the price by up to 100%. Then you pay nothing and I do nothing ;)**
+- <h3 aling="center">⚡ Fun fact</h3> **I can lower the price by up to 100%. Then you pay nothing and I do nothing ;)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
